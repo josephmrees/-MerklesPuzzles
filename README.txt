@@ -1,0 +1,1 @@
+To run the program run the public static method ‘main’ in the class ‘RunCoursework2’
